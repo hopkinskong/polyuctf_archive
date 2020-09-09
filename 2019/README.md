@@ -12,9 +12,9 @@
 
 | Type     | Q. No./Tot. Q. | Name                        | Score | Author        | Notes/Hints                                             |
 |----------|----------------|-----------------------------|-------|---------------|---------------------------------------------------------|
-| CRYPTO   | Q1/4           | I came, I saw, I conquered. | 50    | [@0Nightsedge0]https://github.com/0Nightsedge0 |                        |
-| CRYPTO   | Q2/4           | More than Caesar Ciphers?   | 100   | [@0Nightsedge0]https://github.com/0Nightsedge0 |                        |
-| CRYPTO   | Q3/4           | Simply RSA Problem          | 200   | [@0Nightsedge0]https://github.com/0Nightsedge0 | Math lesson...         |
+| CRYPTO   | Q1/4           | I came, I saw, I conquered. | 50    | [@0Nightsedge0](https://github.com/0Nightsedge0) |                      |
+| CRYPTO   | Q2/4           | More than Caesar Ciphers?   | 100   | [@0Nightsedge0](https://github.com/0Nightsedge0) |                      |
+| CRYPTO   | Q3/4           | Simply RSA Problem          | 200   | [@0Nightsedge0](https://github.com/0Nightsedge0) | Math lesson...       |
 |          |                |                             |       |                                                |                        |
 | FORENSIC | Q1/2           | Least Significant Bit       | 100   | [@DizzyDot](https://github.com/DizzyDot)       |                        |
 | FORENSIC | Q2/2           | Just Open It                | 150   | [@DizzyDot](https://github.com/DizzyDot)       |                        |
@@ -25,7 +25,7 @@
 |          |                |                             |       |                                                |                        |
 | PWN      | Q1/2           | I love Pwning, do you?      | 150   | [@hopkinskong](https://github.com/hopkinskong) | [ncat --ssl host:port] |
 |          |                |                             |       |                                                |                        |
-| WEB      | Q1/3           | PHP is the best!            | 100   | [@0Nightsedge0]https://github.com/0Nightsedge0 | [Web page HTTPS URL]   |
+| WEB      | Q1/3           | PHP is the best!            | 100   | [@0Nightsedge0](https://github.com/0Nightsedge0)|[Web page HTTPS URL]   |
 | WEB      | Q2/3           | Baby WAF                    | 200   | [@DizzyDot](https://github.com/DizzyDot)       | [Web page HTTPS URL]   |
 
 
